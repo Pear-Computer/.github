@@ -9,5 +9,5 @@ That's what Pear does. We create software that mimics Apple's and makes it avail
 - 📺 boxOS (for digital media players)
 
 ## Checklist
-- [x] Software created by Pear
-- [ ] Hardware by Pear for Pear software
+- [x] Software created by Pear 💾
+- [ ] Hardware by Pear for Pear software 🖥
